@@ -1,5 +1,5 @@
 # ASR
-The sourece code for "A semantic relation-aware deep neural network model for end-to-endconversational recommendation"  
+The source code for "A semantic relation-aware deep neural network model for end-to-endconversational recommendation"  
 
 From [here](https://drive.google.com/file/d/1YeQUl3dCt84iFik4SBptzZyNGtZC87_V/view?usp=share_link), you can download our trained model.  
 
