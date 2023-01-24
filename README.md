@@ -5,7 +5,7 @@ From [here](https://drive.google.com/file/d/1YeQUl3dCt84iFik4SBptzZyNGtZC87_V/vi
 
 From [here](https://drive.google.com/file/d/1BzwGgbUBilaEZXAu7e1SlvxSwcAfVe2w/view), you can download the word embedding file word2vec_redial.npy  
 
-To run the checkpoint, you can run the following code:  
+To run our trained model, you can run the following code:  
 `python run.py --is_test True`  
 
 To train the model, you can run the following code:  
